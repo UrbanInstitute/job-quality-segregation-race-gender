@@ -1,0 +1,26 @@
+[
+  {
+    "group": "Black men",
+    "text": "mostly crowded out of above-average quality occupations and mostly crowded in to below-average quality occupations."
+  },
+  {
+    "group": "Black women",
+    "text": "mostly crowded out of above-average quality occupations and mostly crowded in to below-average quality occupations."
+  },
+  {
+    "group": "Latinx men",
+    "text": "mostly crowded out of above-average quality occupations and mostly crowded in to below-average occupations."
+  },
+  {
+    "group": "Latinx women",
+    "text": "mostly crowded out of above-average quality occupations and mostly crowded in to below-average quality occupations."
+  },
+  {
+    "group": "White men",
+    "text": "mostly crowded in to above-average occupations and mostly crowded out of below-average occupations."
+  },
+  {
+    "group": "White women",
+    "text": "mostly crowded out of above-average occupations and are equally likely to be crowded in to or out of below-average occupations."
+  }
+]

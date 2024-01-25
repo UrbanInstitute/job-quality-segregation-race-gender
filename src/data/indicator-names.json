@@ -1,0 +1,13 @@
+[
+  { "title": "Wages", "field": "wage_benchmark" },
+  { "title": "Hours", "field": "hours_benchmark" },
+  { "title": "Scheduling", "field": "sched_benchmark" },
+  { "title": "Health insurance", "field": "takeup_benchmark" },
+  { "title": "Retirement", "field": "retire_benchmark" },
+  { "title": "Job security", "field": "growth_benchmark" },
+  { "title": "Employee autonomy", "field": "autonomy_benchmark" },
+  { "title": "Unemployment rate", "field": "unemployment_benchmark" },
+  { "title": "Risk of injury", "field": "injury_benchmark" },
+  { "title": "On-the-job training", "field": "ojt_benchmark" },
+  { "title": "Union coverage", "field": "union_benchmark" }
+]
