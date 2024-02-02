@@ -11,5 +11,5 @@
   <a
     href="https://www.workrisenetwork.org/publications/racial-inequality-labor-market-and-employment-opportunities"
     target="_blank">Discrimination because of racism and sexism</a
-  >, which can occur during the hiring or promotion process. explains many of these disparities.
+  >, which can occur during the hiring or promotion process, explains many of these disparities.
 </p>

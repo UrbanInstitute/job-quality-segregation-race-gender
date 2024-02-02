@@ -5,7 +5,7 @@
   Conventional wisdom dictates that the key to a better quality, higher-paying job is more
   education. Generally, this hypothesis holds true—those who go to <a
     href="https://www.urban.org/urban-wire/understanding-effects-investments-increasing-educational-attainment-using-social-genome"
-    target="_blank">college generally make more than those who don't</a
+    target="_blank">college make more than those who don't</a
   >, and those who earn graduate degrees tend to have the highest wages. But looking closer, a
   different picture emerges. When broken out by race and gender—even after decades of increased
   educational attainment by people of color—<a
